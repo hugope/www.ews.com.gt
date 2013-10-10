@@ -130,8 +130,6 @@ class Plugin_cotizacion extends PL_Controller {
 		
 		endforeach;
 		
-		
-		//
 		return $data_array;
 		
 	}
