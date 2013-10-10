@@ -1,0 +1,7 @@
+[31-May-2013 18:00:01] PHP Fatal error:  Call to a member function helper() on a non-object in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_alerts.php on line 18
+[31-May-2013 15:32:28] PHP Fatal error:  Call to a member function post() on a non-object in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 27
+[31-May-2013 15:32:37] PHP Fatal error:  Call to a member function post() on a non-object in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 27
+[31-May-2013 15:37:21] PHP Fatal error:  Call to a member function referrer() on a non-object in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 47
+[31-May-2013 15:47:06] PHP Fatal error:  Can't use method return value in write context in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 31
+[31-May-2013 15:47:28] PHP Fatal error:  Can't use method return value in write context in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 31
+[31-May-2013 15:58:10] PHP Fatal error:  Can't use method return value in write context in /home/c04305/public_html/subdomains/framework.PERINOLA/www/application/libraries/FW_posts.php on line 65
